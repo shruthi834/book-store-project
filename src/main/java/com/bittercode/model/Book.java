@@ -9,7 +9,7 @@ public class Book implements Serializable {
     private String author;
     private double price;
     private int quantity;
-
+    // added comments for book model
     public Book(String barcode, String name, String author, double price, int quantity) {
         this.barcode = barcode;
         this.name = name;
