@@ -5,6 +5,7 @@ import java.util.List;
 
 public class User implements Serializable {
 
+    // comment for testing
     private String emailId;
     private String password;
     private String firstName;
